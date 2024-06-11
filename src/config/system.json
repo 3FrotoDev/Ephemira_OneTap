@@ -1,0 +1,17 @@
+{
+    "free":{
+        "users":5, 
+        "roles":1,
+        "rooms":6
+    },
+    "prime":{
+        "users":10,
+        "roles":5,
+        "rooms":10
+    },
+    "premium":{
+        "users":99,
+        "roles":20,
+        "rooms":20
+    }
+}
